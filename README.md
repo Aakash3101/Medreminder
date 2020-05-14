@@ -1,6 +1,8 @@
 # med_reminder
 
-A new Flutter project.
+This flutter project focuses about giving medicine reminders to elderly people, on an hourly basis,
+daily basis or weekly basis. The application is authenticated by Firebase authentication, so you can access
+your previous reminders from another device also. For storing the reminders we use Firebase realtime database
 
 ## Getting Started
 
