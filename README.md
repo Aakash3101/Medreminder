@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # med_reminder
 
 A new Flutter project.
@@ -16,5 +15,3 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
-# Medreminder
->>>>>>> 9b963cf706ab4de7bee8c980295ff690e5fc0dc1
